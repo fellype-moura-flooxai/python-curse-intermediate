@@ -26,5 +26,5 @@ def saudacao(nome='sem nome'):
 
 saudacao('fellype moura')
 saudacao('maria')
-saudacao('junior')
+saudacao()
 
